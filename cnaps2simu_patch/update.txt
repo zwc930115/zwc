@@ -1,4 +1,0 @@
- CNAPS仿真更新补丁见附件，请按步骤更新。
-  仿真升级struts步骤：
- １.替换SessionFilter.class，路经：tomcat\webapps\仿真\WEB-INF\classes\com\ylink\base\common\filter。
- ２.替换lib包里的jar包，路经：tomcat\webapps\仿真\WEB-INF\lib。
