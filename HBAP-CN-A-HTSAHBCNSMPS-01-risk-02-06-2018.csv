@@ -1,0 +1,25 @@
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Credit Post,,,,Allow access to Post Credit trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Credit Inquiry,,,,Allow access to Inquiry Credit trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Credit Return,,,,Allow access to Return  Credit trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Credit Return Inquiry,,,,Allow access to Inquiry Credit Return trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Credit Authorize,,,,Allow access to Authorize Credit Inquiry trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Inquiry and Review,,,,Allow access to Inquiry and Review All trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Free Format,,,,Allow access to no restricted message screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Summary Record Report,,,,Allow access to Report of Summary Records screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Abnormal Record Report,,,,Allow access to Report of Abnormal Records screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,BankCode Inquiry,,,,Allow access to inquiry bank names and bank numbers screen
+High,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,System Parameter Management,,,,Allow access to Manage System Parameters screen
+High,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,User Management,,,,Allow access to Manage Users screen
+High,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,User Group Management,,,,Allow access to Manage User Groups screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Credit,,,,Allow access to Post Company Credit trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Collection,,,,Allow access to Post Company Collection trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Credit Authorize,,,,Allow access to Authorize Company Credit trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Collection Authorize,,,,Allow access to Authorize Company Collection trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Credit Inquiry,,,,Allow access to Inquiry Company Credit trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Collection Inquiry,,,,Allow access to Inquiry Company Collection trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Credit Report,,,,Allow access to Report of Company Credit trading screen
+Medium,HBAP-CN-A-HTSAHBCNSMPS-01,Entitlement,,Company Collection Report,,,,Allow access to Report of Company Collection trading screen
+High,HBAP-CN-A-HTSAHBCNSMPS-01,Profile,Business Manager,,,,,Role of Business Manager.Access to trading and Trade authorisation screens.
+High,HBAP-CN-A-HTSAHBCNSMPS-01,Profile,Business Operator,,,,,Role of Business Operator.Access to Trading screens.
+High,HBAP-CN-A-HTSAHBCNSMPS-01,Profile,System Operator,,,,,Role of System Operator.Access to User Admin screens.
+High,HBAP-CN-A-HTSAHBCNSMPS-01,Profile,System Manager,,,,,Role of System Manager.Full access to all screens and functionality.
