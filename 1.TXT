@@ -1,9 +1,0 @@
---20171107 仲稳充 为hvps115增加期望清算日期字段
-alter table hv_rcvexchglist   add EXPECTEDSTATEDATE VARCHAR2(10);
-alter table hv_sndexchglist   add EXPECTEDSTATEDATE VARCHAR2(10);
-alter table hv_rcvexchglisthis   add EXPECTEDSTATEDATE VARCHAR2(10);
-alter table hv_sndexchglisthis   add EXPECTEDSTATEDATE VARCHAR2(10);
-comment on column hv_rcvexchglist.EXPECTEDSTATEDATE is '期望清算日期';
-comment on column hv_sndexchglist.EXPECTEDSTATEDATE is '期望清算日期';
-comment on column hv_rcvexchglisthis.EXPECTEDSTATEDATE is '期望清算日期';
-comment on column hv_sndexchglisthis.EXPECTEDSTATEDATE is '期望清算日期';
